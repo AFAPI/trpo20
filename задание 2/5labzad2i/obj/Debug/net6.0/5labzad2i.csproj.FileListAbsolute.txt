@@ -1,0 +1,30 @@
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\bin\Debug\net6.0\5labzad2i.exe
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\bin\Debug\net6.0\5labzad2i.deps.json
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\bin\Debug\net6.0\5labzad2i.runtimeconfig.json
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\bin\Debug\net6.0\5labzad2i.dll
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\bin\Debug\net6.0\5labzad2i.pdb
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\obj\Debug\net6.0\5labzad2i.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\obj\Debug\net6.0\5labzad2i.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\obj\Debug\net6.0\5labzad2i.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\obj\Debug\net6.0\5labzad2i.AssemblyInfo.cs
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\obj\Debug\net6.0\5labzad2i.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\obj\Debug\net6.0\5labzad2i.dll
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\obj\Debug\net6.0\refint\5labzad2i.dll
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\obj\Debug\net6.0\5labzad2i.pdb
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\obj\Debug\net6.0\5labzad2i.genruntimeconfig.cache
+C:\Users\Иван\source\repos\5labzad2i\5labzad2i\obj\Debug\net6.0\ref\5labzad2i.dll
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\bin\Debug\net6.0\5labzad2i.exe
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\bin\Debug\net6.0\5labzad2i.deps.json
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\bin\Debug\net6.0\5labzad2i.runtimeconfig.json
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\bin\Debug\net6.0\5labzad2i.dll
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\bin\Debug\net6.0\5labzad2i.pdb
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\obj\Debug\net6.0\5labzad2i.csproj.AssemblyReference.cache
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\obj\Debug\net6.0\5labzad2i.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\obj\Debug\net6.0\5labzad2i.AssemblyInfoInputs.cache
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\obj\Debug\net6.0\5labzad2i.AssemblyInfo.cs
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\obj\Debug\net6.0\5labzad2i.csproj.CoreCompileInputs.cache
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\obj\Debug\net6.0\5labzad2i.dll
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\obj\Debug\net6.0\refint\5labzad2i.dll
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\obj\Debug\net6.0\5labzad2i.pdb
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\obj\Debug\net6.0\5labzad2i.genruntimeconfig.cache
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 2\5labzad2i\obj\Debug\net6.0\ref\5labzad2i.dll
