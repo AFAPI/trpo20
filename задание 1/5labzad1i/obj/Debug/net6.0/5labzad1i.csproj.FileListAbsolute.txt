@@ -1,0 +1,48 @@
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\bin\Debug\net6.0\5labzad1i.exe
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\bin\Debug\net6.0\5labzad1i.deps.json
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\bin\Debug\net6.0\5labzad1i.runtimeconfig.json
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\bin\Debug\net6.0\5labzad1i.dll
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\bin\Debug\net6.0\5labzad1i.pdb
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\obj\Debug\net6.0\5labzad1i.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\obj\Debug\net6.0\5labzad1i.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\obj\Debug\net6.0\5labzad1i.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\obj\Debug\net6.0\5labzad1i.AssemblyInfo.cs
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\obj\Debug\net6.0\5labzad1i.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\obj\Debug\net6.0\5labzad1i.dll
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\obj\Debug\net6.0\refint\5labzad1i.dll
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\obj\Debug\net6.0\5labzad1i.pdb
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\obj\Debug\net6.0\5labzad1i.genruntimeconfig.cache
+C:\Users\Иван\source\repos\5labzad1i\5labzad1i\obj\Debug\net6.0\ref\5labzad1i.dll
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\bin\Debug\net6.0\5labzad1i.exe
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\bin\Debug\net6.0\5labzad1i.deps.json
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\bin\Debug\net6.0\5labzad1i.runtimeconfig.json
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\bin\Debug\net6.0\5labzad1i.dll
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\bin\Debug\net6.0\5labzad1i.pdb
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.csproj.AssemblyReference.cache
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.AssemblyInfoInputs.cache
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.AssemblyInfo.cs
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.csproj.CoreCompileInputs.cache
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.dll
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\refint\5labzad1i.dll
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.pdb
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.genruntimeconfig.cache
+C:\Users\ppain\Desktop\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\ref\5labzad1i.dll
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\bin\Debug\net6.0\5labzad1i.exe
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\bin\Debug\net6.0\5labzad1i.deps.json
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\bin\Debug\net6.0\5labzad1i.runtimeconfig.json
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\bin\Debug\net6.0\5labzad1i.dll
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\bin\Debug\net6.0\5labzad1i.pdb
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.AssemblyInfo.cs
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.dll
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\refint\5labzad1i.dll
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.pdb
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.genruntimeconfig.cache
+C:\Users\1\OneDrive\Рабочий стол\КПиЯП\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\ref\5labzad1i.dll
+D:\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.dll
+D:\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\refint\5labzad1i.dll
+D:\5 лаба\задание 1\5labzad1i\obj\Debug\net6.0\5labzad1i.pdb
